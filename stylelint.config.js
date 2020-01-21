@@ -107,4 +107,3 @@ module.exports = {
     "value-list-max-empty-lines": 0,
   },
 }
-
