@@ -1,4 +1,3 @@
-# PortfolioProject1
 
 <h1 align="center">Portfolio Project #1</h1>
 
