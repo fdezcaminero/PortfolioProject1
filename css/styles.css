@@ -5,3 +5,11 @@
 .bg-lil-gray {
     background-color: #f1f2f2;
 }
+
+.navbar {
+  overflow: hidden;
+  background-color: #f1f2f2;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
