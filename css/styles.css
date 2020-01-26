@@ -17,8 +17,50 @@
 .iskos {
     color: gray;
     font-size: 50px;
+    opacity: 0.5;
 }
 
 .font-size-bigger {
     font-size: 46px;
+}
+
+.section-title {
+    position: relative;
+    display: block;
+    padding-top: 7px;
+    padding-bottom: 40px;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.section-title::after {
+    display: block;
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 2px;
+    width: 65px;
+    background-color: #000;
+}
+
+.padding-down {
+    padding-bottom: 50px;
+}
+
+.padding-up {
+    padding-top: 50px;
+}
+
+.fc-gray {
+    color: gray;
+}
+
+.height100 {
+    height: 100%;
+}
+
+.padding-lar {
+    padding-left: 20px;
+    padding-right: 20px;
 }
